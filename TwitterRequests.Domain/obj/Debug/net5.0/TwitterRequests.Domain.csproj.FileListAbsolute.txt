@@ -1,0 +1,12 @@
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\bin\Debug\net5.0\TwitterRequests.Domain.deps.json
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\bin\Debug\net5.0\TwitterRequests.Domain.dll
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\bin\Debug\net5.0\ref\TwitterRequests.Domain.dll
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\bin\Debug\net5.0\TwitterRequests.Domain.pdb
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.csproj.AssemblyReference.cache
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.AssemblyInfoInputs.cache
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.AssemblyInfo.cs
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.csproj.CoreCompileInputs.cache
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.dll
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\ref\TwitterRequests.Domain.dll
+D:\TreinamentoAvanade\TwitterRequests\TwitterRequests.Domain\obj\Debug\net5.0\TwitterRequests.Domain.pdb

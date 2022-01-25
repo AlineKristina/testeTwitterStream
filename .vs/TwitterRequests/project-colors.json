@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33017cb7-8d04-43e4-82da-e516ac6c2822": {
+      "ProjectGuid": "33017cb7-8d04-43e4-82da-e516ac6c2822",
+      "DisplayName": "TwitterRequests.UI",
+      "ColorIndex": 0
+    },
+    "6e87820f-f6e5-4a58-9ea8-8698c01d4467": {
+      "ProjectGuid": "6e87820f-f6e5-4a58-9ea8-8698c01d4467",
+      "DisplayName": "TwitterRequests.UI",
+      "ColorIndex": 1
+    },
+    "f28fb2d1-4513-4a5d-9459-91ffc57dba02": {
+      "ProjectGuid": "f28fb2d1-4513-4a5d-9459-91ffc57dba02",
+      "DisplayName": "TwitterRequests.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
